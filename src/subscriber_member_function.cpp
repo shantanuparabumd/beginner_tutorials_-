@@ -1,7 +1,7 @@
 /**
  * @file subscriber_member_function.cpp
  * @author Shantanu Parab (sparab@umd.edu)
- * @brief Simple Subscriber Template
+ * @brief Simple Subscriber Template ROS2
  * @version 0.1
  * @date 2022-10-30
  * 
